@@ -1,0 +1,7 @@
+,DeletionAUC,InsertionAUC,Comprehensiveness,Infidelity,Stability,Runtime_s,MeanRank_all,MeanRank_quality
+kernelshap,0.0847,0.9238,0.8772,0.9286,0.2829,1.6482,4.0,3.8
+samplingshap,0.0551,0.9434,0.974,0.9216,0.4298,1.0558,3.83,3.8
+lime,0.0309,1.0256,1.0014,1.4478,0.3719,0.336,2.83,2.8
+occlusion,0.0407,0.9758,1.0378,1.9306,0.3756,0.0247,3.17,3.6
+treeshap,0.0904,0.9063,0.8857,9.0659,0.2842,0.1771,4.5,5.0
+consensus,0.0011,0.9888,1.0899,1.0223,0.3641,3.0647,2.67,2.0
